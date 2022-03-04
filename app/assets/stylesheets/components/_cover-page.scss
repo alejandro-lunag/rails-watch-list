@@ -1,0 +1,12 @@
+.cover-page {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(asset_path('Movies-background.png'));
+  height: 500px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.typed-js {
+  min-height: 33.6px;
+}
